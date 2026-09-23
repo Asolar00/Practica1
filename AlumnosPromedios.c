@@ -17,7 +17,6 @@ int main(){
     Luis.calificaciones[1] = 7.1;
     Luis.calificaciones[2] = 6.0;
     
-    suma = 0;
     for (i = 0; i < 3; i++){
         suma = suma + Luis.calificaciones[i];
     }
